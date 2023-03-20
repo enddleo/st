@@ -6,10 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Liberation Mono:pixelsize=26:antialias=true:autohint=true";
-static char *font2[] = {
-			"WenQuanYi Micro Hei:size=14:type=Regular:antialias=true:autohint=true",
-			"Symbols Nerd Font:pixelsize=16:type=2048-em:antialias=true:autohint=true",
-};
+static char *font2[] = { "Symbols Nerd Font:pixelsize=26:type=2048-em:antialias=true:autohint=true" };
 
 static int borderpx = 6;
 
